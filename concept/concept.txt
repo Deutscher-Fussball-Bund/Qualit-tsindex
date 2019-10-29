@@ -1,0 +1,26 @@
+Q-Index
+
+Datenaufbereitung:
+	-Datenimport
+	-Join Tracking Event Daten
+	-Datenaufbereitung
+	-QoL Funktionen
+
+Advanced metrics:
+	-xG von Gabriel aus KPI Merged übernehmen
+	-Packing
+		+Packing horizontal
+		+Packing vertikal
+		+Packing Elipse (opt)
+	-Standard
+		+Anzahl Schüsse
+		+Ballbesitz
+		+Passquote
+
+Q-Index:
+	-Erfolgsquote Pässe 
+		+in Spielrichtung 90°
+		+in Richtung gegnerisches Tor Mittelpunkt 90°
+	-durchschnittliche Zeit von Annahme bis Abspiel pro individuellem Ballbesitz
+	-relativer Anteil aller Pässe vorwärts zu allen Pässen in Abhängigkeit zum relativen Ballbesitz
+	-Anzahl hoher positiver Beschleunigungen vorwärts im Angriffsdrittel in Abhängigkeit zum relativen Anteil des Ballbesitzes in der gegnerischen Spielfeldhälfte
